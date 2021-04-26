@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612727891 source:c:\users\developer\desktop\esame ollari\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"procedure.h"
+
+1612473905 c:\users\developer\desktop\esame ollari\c\procedure.h
+
+1612475497 source:c:\users\developer\desktop\esame ollari\c\procedure.c
+	<stdio.h>
+	<string.h>
+	"procedure.h"
+
